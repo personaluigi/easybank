@@ -86,6 +86,11 @@
         width: 40%;
     }
 
+    .intro-float-left>button:hover {
+        cursor: pointer;
+        opacity: 40%;
+    }
+
     .intro-float-right {
         position: absolute;
         right: 0;
