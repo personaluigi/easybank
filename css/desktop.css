@@ -139,6 +139,7 @@
     }
 
     .article-box {
+        cursor: pointer;
         width: 280px;
     }
 
